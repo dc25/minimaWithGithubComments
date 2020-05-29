@@ -46,5 +46,7 @@ $on-large:         $on-laptop !default;
   "minima/custom-variables", // Hook to override predefined variables.
   "minima/base",             // Defines element resets.
   "minima/layout",           // Defines structure and style based on CSS selectors.
-  "minima/custom-styles"     // Hook to override existing styles.
+  "minima/custom-styles",    // Hook to override existing styles.
+  "gh-comments",
+  "gh-code"
 ;
