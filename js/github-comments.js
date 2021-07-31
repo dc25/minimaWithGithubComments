@@ -1,4 +1,5 @@
 // Original code taken with permission from : https://github.com/dwilliamson/donw.io/blob/master/public/js/github-comments.js
+//
 
 async function getComments(repo_name, comment_id, page_id, acc )
 {
@@ -10,12 +11,6 @@ async function getComments(repo_name, comment_id, page_id, acc )
 
     const comments = await resp.json();
     
-    if (1 == page_id) {
-        // post button 
-        const url = "https://github.com/" + repo_name + "/issues/" + comment_id + "#new_comment_field";
-        acc += ("<form action='" + url + "' rel='nofollow'> <input type='submit' value='Post a comment on Github' /> </form>");
-    }
-
     // Individual comments
     for (let i = 0; i < comments.length; i++)
     {
@@ -40,10 +35,10 @@ async function getComments(repo_name, comment_id, page_id, acc )
         for (let j=0; j<entries.length; j++)
         {
             const entry = entries[j];
-            if ("next" == entry.match(/rel="([^"]*)/)[1])
+            if (-1 != entry.search('rel="next"'))
             {
                 acc = await getComments(repo_name, comment_id, page_id+1, acc);
-                break;
+                break; // recurse on "next" and then stop looking for "next".
             }
         }
     }
@@ -55,7 +50,10 @@ function DoGithubComments(repo_name, comment_id)
     document.addEventListener("DOMContentLoaded", async function() 
     {
         try {
-            const comments = await getComments(repo_name, comment_id, 1, "");
+            // post button 
+            const url = "https://github.com/" + repo_name + "/issues/" + comment_id + "#new_comment_field";
+            const acc = ("<form action='" + url + "' rel='nofollow'> <input type='submit' value='Post a comment on Github' /> </form>");
+            const comments = await getComments(repo_name, comment_id, 1, acc);
             const commentsElement = document.getElementById('gh-comments-list');
             commentsElement.innerHTML = comments;
         } catch (err)
