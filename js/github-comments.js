@@ -16,15 +16,14 @@ async function getComments(repo_name, comment_id, page_id, acc )
     {
         const comment = comments[i];
         const date = new Date(comment.created_at);
-
-        acc += "<div id='gh-comment'>";
-        acc += "<img src='" + comment.user.avatar_url + "' width='24px'>";
-        acc += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
-        acc += " posted at ";
-        acc += "<em>" + date.toUTCString() + "</em>";
-        acc += "<div id='gh-comment-hr'></div>";
-        acc += comment.body_html;
-        acc += "</div>";
+        acc += "<div id='gh-comment'>" + 
+                 "<img src='" + comment.user.avatar_url + "' width='24px'>" + 
+                 "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>" + 
+                 " posted at " + 
+                 "<em>" + date.toUTCString() + "</em>" + 
+                 "<div id='gh-comment-hr'></div>" + 
+                 comment.body_html + 
+               "</div>";
     }
 
     // Call recursively if there are more pages to display
