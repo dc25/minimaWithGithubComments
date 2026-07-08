@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/minimaWithGithubComments/feed.xml" rel="self" type="application/atom+xml" /><link href="/minimaWithGithubComments/" rel="alternate" type="text/html" /><updated>2026-07-07T18:07:26-07:00</updated><id>/minimaWithGithubComments/feed.xml</id><entry><title type="html">Example of blog post with github comments</title><link href="/minimaWithGithubComments/2017/06/24/example-of-blog-post-with-github-comments.html" rel="alternate" type="text/html" title="Example of blog post with github comments" /><published>2017-06-24T21:27:27-07:00</published><updated>2017-06-24T21:27:27-07:00</updated><id>/minimaWithGithubComments/2017/06/24/example-of-blog-post-with-github-comments</id><content type="html" xml:base="/minimaWithGithubComments/2017/06/24/example-of-blog-post-with-github-comments.html"><![CDATA[<p>This blog is the minima theme, modified to support github comments.</p>
+
+<p>This blog has support for github comments enabled.
+This post has github comments enabled.</p>
+
+<p>See <a href="https://dc25.github.io/myBlog/2017/06/24/using-github-comments-in-a-jekyll-blog.html" title="a 'real' blog post">Using Github comments in a Jekyll blog</a> for more details.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[This blog is the minima theme, modified to support github comments.]]></summary></entry><entry><title type="html">My Example Post</title><link href="/minimaWithGithubComments/2016/05/20/my-example-post.html" rel="alternate" type="text/html" title="My Example Post" /><published>2016-05-20T00:00:00-07:00</published><updated>2016-05-20T00:00:00-07:00</updated><id>/minimaWithGithubComments/2016/05/20/my-example-post</id><content type="html" xml:base="/minimaWithGithubComments/2016/05/20/my-example-post.html"><![CDATA[<p>Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.</p>
+
+<p>No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.</p>]]></content><author><name>John Doe</name></author><summary type="html"><![CDATA[Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.]]></summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="/minimaWithGithubComments/misc/2016/05/20/super-long-article.html" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2016-05-20T00:00:00-07:00</published><updated>2016-05-20T00:00:00-07:00</updated><id>/minimaWithGithubComments/misc/2016/05/20/super-long-article</id><content type="html" xml:base="/minimaWithGithubComments/misc/2016/05/20/super-long-article.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>]]></content><author><name></name></author><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="/minimaWithGithubComments/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00-07:00</published><updated>2016-05-20T00:00:00-07:00</updated><id>/minimaWithGithubComments/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="/minimaWithGithubComments/junk/2016/05/20/this-post-demonstrates-post-content-styles.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+
+<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+
+<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+
+<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<blockquote>
+  <p>This quote will <em>change</em> your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+
+<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+
+<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h6 id="small-yet-significant-sub-heading--h6">Small yet significant sub-heading  (h6)</h6>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h3 id="whaaat-a-checklist">Whaaat, a checklist??</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Milk</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Cookies
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Classic Choco-chip</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Sourdough Choco-chip</li>
+    </ul>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Chee-ee-eeee-zzze!!!!</li>
+</ul>
+
+<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ul>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+  <li>Fifth item, nested!
+    <ul>
+      <li>So la ti do</li>
+      <li>Ba-da-bing!</li>
+      <li>Ba-da-boom!</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ol>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+  <li>Fifth item, nested!
+    <ul>
+      <li>So la ti do</li>
+      <li>Ba-da-bing!</li>
+      <li>Ba-da-boom!</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="tables">Tables</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum</td>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><category term="junk" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="/minimaWithGithubComments/2016/05/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-05-20T00:00:00-07:00</published><updated>2016-05-20T00:00:00-07:00</updated><id>/minimaWithGithubComments/2016/05/20/welcome-to-jekyll</id><content type="html" xml:base="/minimaWithGithubComments/2016/05/20/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Codeblocks Ahoy</title><link href="/minimaWithGithubComments/2016/05/19/codeblocks-ahoy.html" rel="alternate" type="text/html" title="Codeblocks Ahoy" /><published>2016-05-19T00:00:00-07:00</published><updated>2016-05-19T00:00:00-07:00</updated><id>/minimaWithGithubComments/2016/05/19/codeblocks-ahoy</id><content type="html" xml:base="/minimaWithGithubComments/2016/05/19/codeblocks-ahoy.html"><![CDATA[<p>An article with various blocks of highlighted code snippets.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">=begin
+  Dummy class nested inside a dummy module
+  Private API
+=end</span>
+</code></pre></div></div>
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gd">- This line is redacted
+- This line has been deleted
+</span><span class="gi">+ This line is visible
++ This line has been inserted
+</span><span class="p">This line has not been changed
+</span></code></pre></div></div>
+<div class="language-sass highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">@import</span> <span class="s">"base"</span>
+
+<span class="nc">.card</span>
+  <span class="nl">display</span><span class="p">:</span> <span class="nb">inline-block</span>
+  <span class="nl">margin</span><span class="p">:</span> <span class="m">0</span>
+  <span class="nl">padding</span><span class="p">:</span> <span class="m">0</span>
+
+  <span class="k">&amp;</span><span class="nd">:hover</span>
+    <span class="nl">color</span><span class="p">:</span> <span class="mh">#ab45ef</span><span class="err">;</span>
+</code></pre></div></div>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">21</span> <span class="o">+</span> <span class="mi">54</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">foo</span> <span class="o">||=</span> <span class="n">bar</span>
+<span class="n">foo</span> <span class="o">/</span> <span class="n">bar</span>
+
+<span class="mi">24</span>
+<span class="mf">45.75</span>
+<span class="mh">0x2C716</span>
+<span class="p">\</span><span class="n">x0A</span>
+<span class="mo">01010</span>
+
+<span class="sr">/ya?ml/</span>
+<span class="s2">"yaml"</span>
+</code></pre></div></div>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kp">include</span> <span class="no">Enumerable</span>
+
+<span class="k">module</span> <span class="nn">Foo</span>
+  <span class="k">class</span> <span class="nc">Bar</span>
+    <span class="no">LIPSUM</span> <span class="o">=</span> <span class="s2">"lorem ipsum dolor sit"</span>
+
+    <span class="nb">attr_reader</span> <span class="ss">:layout</span>
+
+    <span class="k">def</span> <span class="nf">initialize</span>
+      <span class="vi">@layout</span> <span class="o">=</span> <span class="no">Layout</span><span class="p">.</span><span class="nf">new</span>
+    <span class="k">end</span>
+
+    <span class="c1"># instance method</span>
+    <span class="k">def</span> <span class="nf">profile</span>
+      <span class="n">measure_time</span> <span class="k">do</span>
+        <span class="n">compile</span> <span class="n">layout</span>
+        <span class="n">layout</span><span class="p">.</span><span class="nf">render_with</span> <span class="no">Bar</span><span class="o">::</span><span class="no">LIPSUM</span>
+      <span class="k">end</span>
+    <span class="k">rescue</span> <span class="no">ArgumentError</span>
+      <span class="kp">false</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+
+<span class="c1"># Execute code</span>
+<span class="no">Foo</span><span class="o">::</span><span class="no">Bar</span><span class="p">.</span><span class="nf">new</span><span class="p">.</span><span class="nf">profile</span>
+</code></pre></div></div>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">foo</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">page</span><span class="p">.</span><span class="nv">foo</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">bar</span><span class="p">:</span><span class="w"> </span><span class="s1">'baz'</span><span class="w"> </span><span class="cp">%}</span>
+<span class="cp">{{</span><span class="w"> </span><span class="nv">foo</span><span class="w"> </span><span class="cp">}}</span>
+</code></pre></div></div>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">author</span><span class="pi">:</span>
+  <span class="na">admin</span><span class="pi">:</span> <span class="kc">true</span>
+  <span class="na">name</span><span class="pi">:</span> <span class="s">John Doe</span>
+  <span class="na">email</span><span class="pi">:</span> <span class="s">johndoe@example.com</span>
+  <span class="na">id</span><span class="pi">:</span> <span class="m">75636474</span>
+</code></pre></div></div>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;title&gt;</span>Hello World<span class="nt">&lt;/title&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="hll"><span class="nt">&lt;html&gt;</span>
+</span>  <span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span> <span class="nt">/&gt;</span>
+<span class="hll">    <span class="nt">&lt;title&gt;</span>Hello World<span class="nt">&lt;/title&gt;</span>
+</span>  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+<span class="hll">    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+</span>  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre></td><td class="code"><pre><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;title&gt;</span>Hello World<span class="nt">&lt;/title&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre></td><td class="code"><pre><span class="hll"><span class="nt">&lt;html&gt;</span>
+</span>  <span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span> <span class="nt">/&gt;</span>
+<span class="hll">    <span class="nt">&lt;title&gt;</span>Hello World<span class="nt">&lt;/title&gt;</span>
+</span>  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+<span class="hll">    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+</span>  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+
+</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><summary type="html"><![CDATA[An article with various blocks of highlighted code snippets.]]></summary></entry><entry><title type="html">Some articles are just so short that we have to make the footer stick</title><link href="/minimaWithGithubComments/misc/2016/05/19/super-short-article.html" rel="alternate" type="text/html" title="Some articles are just so short that we have to make the footer stick" /><published>2016-05-19T00:00:00-07:00</published><updated>2016-05-19T00:00:00-07:00</updated><id>/minimaWithGithubComments/misc/2016/05/19/super-short-article</id><content type="html" xml:base="/minimaWithGithubComments/misc/2016/05/19/super-short-article.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name></name></author><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry></feed>
